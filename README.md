@@ -8,6 +8,7 @@ You will also need to be a admin of a server to invite this bot.
 Please ⭐ this repo if you like the repository.
 
 HOW TO USE?
+
 Step 1 : Clone this project or download the files.
 
 Step 2 : You need to make an application in the discord developer portal and add a bot to the application, and then get the token of the bot.
