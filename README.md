@@ -1,4 +1,4 @@
-# Nuke-Bot-INFO
+# Nuke Bot by Nysm
 
 A discord bot which will help you to get rid of channels and members in an old guild.
 
